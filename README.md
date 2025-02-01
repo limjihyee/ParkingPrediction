@@ -9,5 +9,5 @@
 # UI/UX design
 ![image](https://github.com/user-attachments/assets/30fdc26d-fd7c-4588-a538-f3a5e895df36)
 
-# 최종 Demo
+# Demo
 https://github.com/user-attachments/assets/acb29b20-a84f-4b3a-89a0-1ed685ebf39f
