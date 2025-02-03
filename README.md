@@ -6,6 +6,9 @@
 
 서울시 공영 주차장의 실시간 데이터 3000곳 수집하여 LSTM으로 분석 진행
 
+# 진행
+2024 AI 창업가정신 부트캠프 진행 (2days)
+
 # UI/UX design
 ![image](https://github.com/user-attachments/assets/30fdc26d-fd7c-4588-a538-f3a5e895df36)
 
