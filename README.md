@@ -8,6 +8,7 @@
 
 # 진행
 2024 AI 창업가정신 부트캠프 진행 (2days)
+[부트캠프발표자료.pdf](https://github.com/user-attachments/files/18643821/default.pdf)
 
 # UI/UX design
 ![image](https://github.com/user-attachments/assets/30fdc26d-fd7c-4588-a538-f3a5e895df36)
